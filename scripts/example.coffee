@@ -10,6 +10,9 @@
 
 module.exports = (robot) ->
 
+#robot.hear /is dugal alive/i, (res) ->
+#  res.send "Yes. Keep your feet on the ground."
+
   # robot.hear /badger/i, (res) ->
   #   res.send "Badgers? BADGERS? WE DON'T NEED NO STINKIN BADGERS"
   #
