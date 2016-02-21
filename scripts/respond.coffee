@@ -1,3 +1,9 @@
+# Description:
+# 	Listens to the chat and responds accordingly
+#
+# Author:
+# 	SakuyaIzayoi
+
 module.exports = (robot) ->
 
 	robot.hear /is dugal alive/i, (res) ->
